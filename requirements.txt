@@ -1,0 +1,23 @@
+
+# Traitement des données
+pandas
+numpy
+
+# Visualisation (pour l’EDA local)
+matplotlib
+seaborn
+plotly
+
+# Lecture de fichiers
+openpyxl
+xlrd
+
+# Connexion MongoDB
+pymongo
+
+# Pour les notebook Jupyter dans VSCode
+notebook
+ipykernel
+
+# Utilitaire (si tu utilises JSON ou requêtes HTTP)
+requests
