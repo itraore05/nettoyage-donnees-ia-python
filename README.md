@@ -48,6 +48,8 @@ Données brutes multi-sources  ──▶  Exploration (EDA)  ──▶  Nettoyag
 nettoyage-donnees-ia-python/
 ├── Code_Nettoyage/
 │   └── Script_datasetclean.ipynb   # Pipeline de nettoyage et de transformation
+├── documentation/
+│   └── Description du projet.docx  # Présentation détaillée du projet
 ├── requirements.txt
 ├── .gitignore                      # Exclut le dossier Data/ (données internes)
 └── README.md
